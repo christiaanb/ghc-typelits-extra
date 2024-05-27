@@ -1,5 +1,8 @@
 # Changelog for the [`ghc-typelits-extra`](http://hackage.haskell.org/package/ghc-typelits-extra) package
 
+# 0.4.8
+* Add support for GHC 9.11.20240522
+
 # 0.4.7 *May 22nd, 2024*
 * Add support for GHC 9.10.1
 * Fix Plugin silently fails when normalizing <= in GHC 9.4+ [#50](https://github.com/clash-lang/ghc-typelits-extra/issues/50)
